@@ -1,0 +1,1 @@
+sun.jpg mercury.jpg venus.jpg earth.jpg mars.jpg jupyter.jpg saturn.jpg uranus.jpg neptune.jpg space.jpg
